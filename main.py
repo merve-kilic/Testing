@@ -6,7 +6,7 @@
 
 def multiply_by_2(x):
     #print(x*2)
-    return x*3
+    return x*2
 '''
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
